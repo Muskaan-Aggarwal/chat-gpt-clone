@@ -23,13 +23,13 @@
 1. Clone the repository: git clone https://github.com/Muskaan-Aggarwal/chatgpt-clone.git
 2. Install dependencies: npm install or yarn install
 3. Start the development server: npm run dev or yarn dev
-4. Open the application in your web browser: http://localhost:3000
+4. Open the application in your web browser: 
 ### Back-end
 1. Install Python and Flask: pip install flask
 2. Create a new Python file for the API: app.py
 3. Copy the API code from the repository into the new file
 4. Run the API: python app.py
-5. Open the API endpoint in your web browser: http://localhost:5000/api
+5. Open the API endpoint in your web browser: 
 
 ## Configuration
 1. Update the config.json file to configure the AI model and API settings
